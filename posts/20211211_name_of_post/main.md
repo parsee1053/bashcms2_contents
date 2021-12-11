@@ -3,6 +3,6 @@ Keywords:
 Copyright: (C) 2021 parsee1053
 ---
 
-# title
+# ここにタイトルを書く
 
-Write contents here.
+ここに内容を書く
