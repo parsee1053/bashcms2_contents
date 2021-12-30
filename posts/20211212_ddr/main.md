@@ -6,7 +6,6 @@ Copyright: (C) 2021 parsee1053
 # Dance Dance Revolution
 
 Let's DDR! Let's DDR! Let's DDR! Let's DDR! Let's DDR!
-Let's DDR! Let's DDR! Let's DDR! Let's DDR! Let's DDR!
 
 * [sync (EXTREME version)](#sync-extreme-version)
 * [炉心融解](#roshin)
