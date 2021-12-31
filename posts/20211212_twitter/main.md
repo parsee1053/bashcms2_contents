@@ -1,5 +1,5 @@
 ---
-Keywords: Twitter
+Keywords: Twitter, ツイッター, 埋め込み
 Copyright: (C) 2021 parsee1053
 ---
 
