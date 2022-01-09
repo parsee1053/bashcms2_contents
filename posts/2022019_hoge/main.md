@@ -1,5 +1,5 @@
 ---
-Keywords: hoge,fuga,piyo
+Keywords: hoge,fuga
 Copyright: (C) 2021 parsee1053
 ---
 
