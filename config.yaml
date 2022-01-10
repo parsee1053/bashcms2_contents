@@ -1,6 +1,8 @@
+protocol: 'https:'
+host: 'parsee1053.net'
+sitetitle: 'bashcms2ブログ'
+sitesubtitle: 'Bootstrapは便利。Pandocも便利。'
 links:
-- text: 'top'
-  href: '/?page=top'
 - text: '開発日誌(ブログ)'
   href: '/?post'
 - text: '外部サイト'
