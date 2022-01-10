@@ -3,5 +3,10 @@ links:
   href: '/?page=top'
 - text: '開発日誌(ブログ)'
   href: '/?post'
-- text: 'Twitter'
-  href: 'https://twitter.com/parsee1053'
+- text: '外部サイト'
+  href: './'
+  sublinks:
+  - text: 'Twitter'
+    href: 'https://twitter.com/parsee1053'
+  - text: 'AtCoder'
+    href: 'https://atcoder.jp/users/parsee1053'
