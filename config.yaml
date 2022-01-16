@@ -1,9 +1,9 @@
 protocol: 'https:'
 host: 'parsee1053.net'
-sitetitle: 'bashcms2ブログ'
-sitesubtitle: 'Bootstrapは便利。Pandocも便利。'
+sitetitle: 'parsee1053のブログ'
+sitesubtitle: 'なんか適当に書いていきます。たぶん。'
 links:
-- text: '開発日誌(ブログ)'
+- text: '日誌'
   href: '/?post'
 - text: '外部サイト'
   href: './'
