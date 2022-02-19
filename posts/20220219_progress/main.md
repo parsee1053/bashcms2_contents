@@ -4,4 +4,4 @@ Copyright: (C) 2021 parsee1053
 ---
 
 # 今日の進捗
-* CircleCI実践入門 → 4章 4.4まで
+* CircleCI実践入門 → 4章まで
