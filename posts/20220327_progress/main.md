@@ -6,3 +6,5 @@ Copyright: (C) 2021 parsee1053
 # 今日の進捗
 * レガシーコード改善ガイド → 第7章まで
 * Clean Architecture 達人に学ぶソフトウェアの構造と設計 → 第14章まで
+* ドメイン駆動設計入門 → Chapter9まで
+* Kubernetes完全ガイド 第2版 → 第3章まで
