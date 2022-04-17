@@ -4,5 +4,5 @@ Copyright: (C) 2021 parsee1053
 ---
 
 # 今日の進捗
-* Webを支える技術 → 第7章まで
+* Webを支える技術 → 第8章まで
 * Clean Architecture 達人に学ぶソフトウェアの構造と設計 → 第27章まで
