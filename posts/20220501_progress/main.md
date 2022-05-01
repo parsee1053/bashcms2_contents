@@ -5,3 +5,4 @@ Copyright: (C) 2021 parsee1053
 
 # 今日の進捗
 * Webを支える技術 → 第17章まで
+* Game Programming Patterns → 第2章まで
